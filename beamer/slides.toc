@@ -1,0 +1,6 @@
+\beamer@sectionintoc {2}{Fear}{5}{0}{1}
+\beamer@sectionintoc {3}{Why}{9}{0}{2}
+\beamer@sectionintoc {4}{Basics}{9}{0}{3}
+\beamer@sectionintoc {5}{Real Things I Do}{13}{0}{4}
+\beamer@sectionintoc {6}{caveat codor}{16}{0}{5}
+\beamer@sectionintoc {7}{More!}{22}{0}{6}
